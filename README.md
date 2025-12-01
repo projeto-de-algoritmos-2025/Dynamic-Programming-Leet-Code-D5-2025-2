@@ -12,20 +12,20 @@
 
 ## Definição do Trabalho
 
-Para este segundo trabalho, decidimos resolver questões do leetcode.
+Para este quinto trabalho, decidimos resolver questões do leetcode.
 
 ## Linguagens utilizadas
 
-Utilizamos as linguagens C++ e Python para resolução das questões.
+Utilizamos as linguagens C++ e C para resolução das questões.
 
 ## Questões
 
 | Questão | Nível  |
 |---------|--------|
+| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/?envType=problem-list-v2&envId=dynamic-programming) | Médio |
+| [10. Regular expression matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=dynamic-programming) | Difícil |
 | []() | Médio |
-| []() | Difícil |
-| []() | Médio |
-| []() | Difícil |
+| [1029. Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence/?envType=problem-list-v2&envId=dynamic-programming) | Difícil |
 
 
 ## Screenshots
