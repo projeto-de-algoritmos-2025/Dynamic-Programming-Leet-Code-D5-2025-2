@@ -31,11 +31,11 @@ Utilizamos as linguagens C++ e C para resolução das questões.
 
 ### Exercício 01 - Generate Parentheses
 
-![Exercício 1](./exerc/10/sol.jpeg)
+![Exercício 1](./exerc/10/10.jpeg)
 
 ### Exercício 02 - Regular Expression Matching
 
-![Exercício 2](./exerc/22/sol.png)
+![Exercício 2](./exerc/22/22.png)
 
 ### Exercício 03  - Shortest Common Supersequence
 
