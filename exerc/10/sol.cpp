@@ -44,14 +44,11 @@ signed main() {
 a   |   F     F     F
 a   |   F     F     F
 
-
-Pattern:  a*  matches String: aa
-
         ""    a     *
        -----------------
 ""  |   T     F     T
 a   |   F     T     T
-a   |   F     F     F
+a   |   F     F     T
 
 
 
