@@ -24,27 +24,22 @@ Utilizamos as linguagens C++ e C para resolução das questões.
 |---------|--------|
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/?envType=problem-list-v2&envId=dynamic-programming) | Médio |
 | [10. Regular expression matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=dynamic-programming) | Difícil |
-| []() | Médio |
 | [1029. Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence/?envType=problem-list-v2&envId=dynamic-programming) | Difícil |
 
 
 ## Screenshots
 
-### Exercício 01 - 
+### Exercício 01 - Generate Parentheses
 
 ![Exercício 1](./exerc/10/sol.jpeg)
 
-### Exercício 02 -
+### Exercício 02 - Regular Expression Matching
 
 ![Exercício 2](./exerc/22/sol.png)
 
-### Exercício 03 -
+### Exercício 03  - Shortest Common Supersequence
 
-![Exercício 3]()
-
-### Exercício 04 -
-
-![Exercício 4]()
+![Exercício 3](./exerc/1092/1092.png)
 
 ### Vídeo
 
