@@ -32,11 +32,11 @@ Utilizamos as linguagens C++ e C para resolução das questões.
 
 ### Exercício 01 - 
 
-![Exercício 1]()
+![Exercício 1](./exerc/10/sol.jpeg)
 
 ### Exercício 02 -
 
-![Exercício 2]()
+![Exercício 2](./exerc/22/sol.png)
 
 ### Exercício 03 -
 
@@ -49,4 +49,3 @@ Utilizamos as linguagens C++ e C para resolução das questões.
 ### Vídeo
 
 [Vídeo explicativo do trabalho]()
-
