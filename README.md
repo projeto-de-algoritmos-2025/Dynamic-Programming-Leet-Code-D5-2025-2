@@ -43,4 +43,4 @@ Utilizamos as linguagens C++ e C para resolução das questões.
 
 ### Vídeo
 
-[Vídeo explicativo do trabalho]()
+[Vídeo explicativo do trabalho](https://drive.google.com/file/d/11IvdAl01kPSfeDNQQX2vdr0x8tJRmWu7/view?usp=sharing)
